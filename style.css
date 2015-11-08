@@ -1,0 +1,27 @@
+.description {
+    color:red;
+}
+.title{
+	background-color: aquamarine;
+}
+.app{
+	display: flex;
+}
+* {
+   outline: 2px solid blue !important;
+}
+* {
+    -moz-box-sizing: border-box;
+} 
+.image{
+	max-width:460px;
+	display: flex;
+	margin-bottom: 100px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 100px;
+}
+.description{
+	max-width:705px;
+	display: flex;
+}
